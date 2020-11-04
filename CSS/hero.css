@@ -1,0 +1,27 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #42f5cb;
+	padding: 40px;
+	text-align: center;
+
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid #f7fff9;
+
+}
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Powerpuff Girls</h1>
+		</header>*/
