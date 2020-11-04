@@ -21,7 +21,51 @@ header img{
 	border: 10px solid #f7fff9;
 
 }
-/*<header>
-			<img src="img/profile.jpg">
-			<h1>Powerpuff Girls</h1>
-		</header>*/
+
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: #4269f5;
+	text-decoration: none;
+}
+
+footer ul{
+
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+	margin-top: 20px;
+
+}
+
+ul{
+	text-align: center;
+}
+
+footer ul li{
+	dispplay: inline-block;
+	margin: 0 5px;
+
+
+}
